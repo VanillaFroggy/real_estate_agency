@@ -1,3 +1,3 @@
 # real_estate_agency
-Данный репозиторий был создан с целью изучения Git и GitHub,
-а также, чтобы выложить сайт агенства недвижимости в открытый доступ. B-)
+This repository was created for learning Git и GitHub, and publicate source of simple real estate agency website.
+You can use this project as simple example of php website with database.
